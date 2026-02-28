@@ -1,16 +1,6 @@
 <a href="https://komarev.com/ghpvc/?username=makerski">
   <img align="right" src="https://komarev.com/ghpvc/?username=TDE-cpu&label=Odwiedzający&color=0e75b6&style=for-the-badge" alt="Licznik odwiedzających" />
 </a>
-
-## 🚀 FULL STACK DEVELOPER (JAVA BACKEND FOCUSED)
-
-**Spring Boot • REST APIs • PostgreSQL • MySQL • MongoDB**
-
-Full Stack Developer skoncentrowany na tworzeniu **skalowalnych, wydajnych i bezpiecznych aplikacji webowych** — od warstwy backendowej po interfejs użytkownika.
-
-Specjalizuję się w **Java Backend (Spring Boot)**, ale swobodnie poruszam się również po **Frontendzie**, dbając o spójność, wydajność i jakość całego systemu.
-Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **gotowe do wdrożeń produkcyjnych**.
-
 ---
 
 ## 🛠️ Technologie i narzędzia
