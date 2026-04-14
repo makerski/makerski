@@ -6,7 +6,7 @@
 
 ## 🚀 Projects
 * **WorldCube.PL**
-* **NeedMC.PL**
+* I Wiele wiele wiecej projektów.
 
 ---
 
